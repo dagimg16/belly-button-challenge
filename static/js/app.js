@@ -56,7 +56,6 @@ function buildCharts(sample) {
     }]
 
     let barlayout = {
-      title : "Top 10 OTUS Found",
       margin: {t:30, l: 100}
     };
 
@@ -77,7 +76,6 @@ function buildCharts(sample) {
     }]
 
     let bubbleLayout = {  
-      title: "Bacteria Cultures Per Sample",
       xaxis: { title: "OTU ID" },
       yaxis: {title:"Number of Bacteria"},
       hovermode: "closest",
