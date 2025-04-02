@@ -16,8 +16,8 @@ This is an interactive data visualization dashboard built using **D3.js** and **
 
 ## Technologies Used
 
-- HTML5   
-- Bootstrap 5  
+- HTML   
+- Bootstrap  
 - D3.js
 - Plotly.js  
 - JavaScript (ES6)
