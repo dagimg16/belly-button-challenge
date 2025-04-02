@@ -12,24 +12,26 @@ This is an interactive data visualization dashboard built using **D3.js** and **
 
 ## Live Demo
 
-🔗 [https://dagimg16.github.io/belly-button-challenge/](#)  
+🔗 [Belly Button Biodiversity Dashboard](https://dagimg16.github.io/belly-button-challenge/)  
 
 ## Technologies Used
 
-- HTML5 / CSS3  
-- [Bootstrap 5](https://getbootstrap.com/)  
-- [D3.js](https://d3js.org/)  
-- [Plotly.js](https://plotly.com/javascript/)  
+- HTML5   
+- Bootstrap 5  
+- D3.js
+- Plotly.js  
 - JavaScript (ES6)
 
 ## Project Structure
-├── index.html         # Main HTML structure
-├── static/
-│   └── js/
-│       └── app.js     # Core JavaScript logic (charts + interactivity)
-├── README.md          # This file
-├── samples.json       # data source sample
-
+```
+   belly-button-challenge/
+   |   ├── index.html         # Main HTML structure
+   |   ├── static/
+   |   │   └── js/
+   |   │       └── app.js     # Core JavaScript logic (charts + interactivity)
+   |   ├── README.md          # This file
+   |   ├── samples.json       # data source sample
+```
 ## 📥 Data Source
 
 All visualizations are built from `samples.json`, which is hosted externally:
